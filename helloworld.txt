@@ -5,4 +5,5 @@ add secound line!
 add third line!
 add checkout line...
 add right line and delete wrong line;
-add a new master brand
+delete the add a master line
+and then add a new master line
