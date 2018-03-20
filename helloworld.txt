@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I want to earn more money to buy a house
 then I have enough courage to get a wife and live a better life~
 add new line!
@@ -9,4 +10,4 @@ delete the add a master line
 and then add a new master line
 add a new master brand
 add a second lian..
-add a bbb line
+hello world!!!
