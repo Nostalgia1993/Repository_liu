@@ -7,3 +7,6 @@ add checkout line...
 add right line and delete wrong line;
 delete the add a master line
 and then add a new master line
+add a new master brand
+add a second lian..
+add a bbb line
